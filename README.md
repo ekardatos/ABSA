@@ -12,7 +12,7 @@ The project includes the following files:
 
 - **`split.py`**: A Python script to parse the XML dataset and split it into 10 parts (35 reviews per part). Each part is saved as a separate XML file (`part1.xml`, `part2.xml`, …, `part10.xml`).
   
-- **`train.py`**: Contains a function to train a machine learning model using a specified set of parts from the dataset. The model is saved to disk after training. The function supports different ML models such as Support Vector Machines, Logistic Regression, etc., and utilizes a variety of features (e.g., unigrams, bigrams, trigrams, POS tags, named entities, TF-IDF scores, sentiment lexica, word2vec, etc.).
+- **`train.py`**: Contains a function to train a machine learning model using a specified set of parts from the dataset. The model is saved to disk after training. The function supports Logistic Regression, and utilizes a variety of features (e.g., unigrams, bigrams, trigrams, POS tags, named entities, TF-IDF scores, sentiment lexica, word2vec, etc.).
 
 - **`test.py`**: Includes a function to load a pre-trained model and predict the polarities for the aspects of a specified part of the dataset.
 

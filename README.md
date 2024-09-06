@@ -1,4 +1,3 @@
-# ABSA
 # Aspect-Based Sentiment Analysis (ABSA)
 
 This project implements an Aspect-Based Sentiment Analysis (ABSA) system for mining and summarizing opinions from text about specific entities, such as a restaurant. The system is built to detect the main aspects discussed in the text and estimate the polarity (positive, neutral, or negative) for each aspect.

@@ -14,7 +14,7 @@ The project includes the following files:
   
 - **`train.py`**: Contains a function to train a machine learning model using a specified set of parts from the dataset. The model is saved to disk after training. The function supports Logistic Regression, and utilizes a variety of features (e.g., unigrams, bigrams, trigrams).
 
-- **`test.py`**: Includes a function to load a pre-trained model and predict the polarities for the aspects of a specified part of the dataset.
+- **`test.py`**: Includes a function to load the pre-trained model and predict the polarities for the aspects of a specified part of the dataset using TF-IDF vectorization, and assesses the model’s accuracy on the test set.
 
 - **`experiments.py`**: Performs 10-fold cross-validation using the functions from `train.py` and `test.py`. At each iteration, 9 parts are used for training and 1 part for testing/evaluation. Accuracy is calculated for each fold and the average accuracy is computed.
 

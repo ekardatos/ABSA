@@ -19,24 +19,17 @@ The project includes the following files:
 - **`experiments.py`**: Performs 10-fold cross-validation using the functions from `train.py` and `test.py`. At each iteration, 9 parts are used for training and 1 part for testing/evaluation. Accuracy is calculated for each fold and the average accuracy is computed.
 
 ## Results
-•	Part 1 as Test Set: Train Score: 0.904, Test Score: 0.697
 
-•	Part 2 as Test Set: Train Score: 0.908, Test Score: 0.790
-
-•	Part 3 as Test Set: Train Score: 0.909, Test Score: 0.724
-
-•	Part 4 as Test Set: Train Score: 0.907, Test Score: 0.663
-
-•	Part 5 as Test Set: Train Score: 0.901, Test Score: 0.711
-
-•	Part 6 as Test Set: Train Score: 0.906, Test Score: 0.722
-
-•	Part 7 as Test Set: Train Score: 0.905, Test Score: 0.736
-
-•	Part 8 as Test Set: Train Score: 0.904, Test Score: 0.757
-
-•	Part 9 as Test Set: Train Score: 0.910, Test Score: 0.734
-
-•	Part 10 as Test Set: Train Score: 0.842, Test Score: 0.372
-
-**Average Accuracy Score: 0.691**
+| Fold (Test Set) | Train Accuracy | Test Accuracy |
+|-----------------|----------------|---------------|
+| Part 1          | 90.4%          | 69.7%         |
+| Part 2          | 90.8%          | 79.0%         |
+| Part 3          | 90.9%          | 72.4%         |
+| Part 4          | 90.7%          | 66.3%         |
+| Part 5          | 90.1%          | 71.1%         |
+| Part 6          | 90.6%          | 72.2%         |
+| Part 7          | 90.5%          | 73.6%         |
+| Part 8          | 90.4%          | 75.7%         |
+| Part 9          | 91.0%          | 73.4%         |
+| Part 10         | 84.2%          | 37.2%         |
+| **Average**     | **90.0%**      | **69.1%**     |

@@ -26,10 +26,17 @@ The project includes the following files:
 •	Part 3 as Test Set: Train Score: 0.909, Test Score: 0.724
 
 •	Part 4 as Test Set: Train Score: 0.907, Test Score: 0.663
+
 •	Part 5 as Test Set: Train Score: 0.901, Test Score: 0.711
+
 •	Part 6 as Test Set: Train Score: 0.906, Test Score: 0.722
+
 •	Part 7 as Test Set: Train Score: 0.905, Test Score: 0.736
+
 •	Part 8 as Test Set: Train Score: 0.904, Test Score: 0.757
+
 •	Part 9 as Test Set: Train Score: 0.910, Test Score: 0.734
+
 •	Part 10 as Test Set: Train Score: 0.842, Test Score: 0.372
-Average Accuracy Score: 0.691
+
+# Average Accuracy Score: 0.691

@@ -20,8 +20,11 @@ The project includes the following files:
 
 ## Results
 •	Part 1 as Test Set: Train Score: 0.904, Test Score: 0.697
+
 •	Part 2 as Test Set: Train Score: 0.908, Test Score: 0.790
+
 •	Part 3 as Test Set: Train Score: 0.909, Test Score: 0.724
+
 •	Part 4 as Test Set: Train Score: 0.907, Test Score: 0.663
 •	Part 5 as Test Set: Train Score: 0.901, Test Score: 0.711
 •	Part 6 as Test Set: Train Score: 0.906, Test Score: 0.722

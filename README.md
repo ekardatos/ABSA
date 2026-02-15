@@ -39,4 +39,4 @@ The project includes the following files:
 
 •	Part 10 as Test Set: Train Score: 0.842, Test Score: 0.372
 
-# Average Accuracy Score: 0.691
+**Average Accuracy Score: 0.691**
